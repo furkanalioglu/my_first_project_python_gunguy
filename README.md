@@ -9,7 +9,7 @@
 
 **Story of the project**:
 
-Maybe this is not a enough project that shows my skills and attention to the python but this project was very special for me. I coded all of the lines by my selfand solved the 
+Maybe this is not a enough project that shows my skills and attention to the python but this project was very special for me. I coded all of the lines by my self and solved the 
 every problem that i had. This project teached me how to surf in google to find my way. The reason i want to start with this project in my github is, i really want to see how improved my self when i look back after years. 
 I want to say "Were you really bad that much?" with my knowledges in the future.
 
