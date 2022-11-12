@@ -19,7 +19,7 @@ I want to say "Were you really bad that much?" with my knowledges in the future.
 
 2-Then Run the py on any compiler
 
-3-To know more about the game check the pdf folder
+3-To know more about the game check the pdf
 
 **Basic info about the game**
 
